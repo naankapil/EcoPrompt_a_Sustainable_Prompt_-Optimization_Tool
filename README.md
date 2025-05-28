@@ -1,4 +1,4 @@
-# EcoPrompt: Sustainable Prompt Optimization Tool  
+# EcoPrompt | Sustainable Prompt Optimization Tool  
 **Empowering Greener AI Interactions**
 
 ----------------------------------------------------------
