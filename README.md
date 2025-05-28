@@ -36,7 +36,7 @@ Developed by **Kathiramalairajah Kapilaraj**, Sri Lanka.
 1. **Install Python 3.x**  
 2. *(Optional)* Clone repo:  
    ```bash
-   git clone [https://github.com/yourusername/EcoPrompt.git](https://github.com/naankapil/EcoPromt_a_Sustainable_Prompt_-Optimization_Tool)
+   git clone (https://github.com/naankapil/EcoPrompt_a_Sustainable_Prompt_-Optimization_Tool)
    cd EcoPrompt
    ```
 3. **Run Application**  
